@@ -20,3 +20,15 @@ Abra o terminal e execute esse comando para abrir o menu do react-native quando 
 ````
 adb shell input keyevent 82
 ````
+
+## Estrutura de pasta
+````
+src/
+├── assets
+├── components
+├── config
+├── navigation
+├── screens
+├── services
+└── util
+````
