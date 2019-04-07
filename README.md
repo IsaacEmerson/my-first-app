@@ -23,12 +23,15 @@ adb shell input keyevent 82
 
 ## Organização das pastas
 ````
-src/
-├── assets
-├── components
-├── config
-├── navigation
-├── screens
-├── services
-└── util
+├── __tests__/
+├── android/
+├── ios/
+├── src/
+│   ├── assets
+│   ├── components
+│   ├── config
+│   ├── navigation
+│   ├── screens
+│   ├── services
+│   └── util
 ````
