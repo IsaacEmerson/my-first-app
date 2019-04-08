@@ -3,6 +3,12 @@
 ````
 npm insttal
 ````
+## Dependências a ser instaladas
+
+- [ES 2015](https://www.npmjs.com/package/babel-preset-es2015)
+- [React](https://www.npmjs.com/package/react)
+- [Axios](https://www.npmjs.com/package/react-native-axios)
+
 ## Construir aplicação
 ````
 Android : react-native run-android
