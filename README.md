@@ -1,4 +1,9 @@
 # Craindo meu primeiro App
+
+![Main](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/01.png)
+![Product](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/02.png)
+
+
 - [Gerador de sombra](https://ethercreative.github.io/react-native-shadow-generator/)
 - [Gerar paleta de cor](https://coolors.co/00b9ae-037171-03312e-02c3bd-009f93)
 ## Instalar dependências
