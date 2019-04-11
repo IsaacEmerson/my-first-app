@@ -9,6 +9,7 @@ npm insttal
 - [ES 2015](https://www.npmjs.com/package/babel-preset-es2015)
 - [React](https://www.npmjs.com/package/react)
 - [Axios](https://www.npmjs.com/package/react-native-axios)
+- [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
 
 ## Construir aplicação
 ````
@@ -38,7 +39,5 @@ adb shell input keyevent 82
 │   ├── components
 │   ├── config
 │   ├── navigation
-│   ├── screens
-│   ├── services
-│   └── util
+│   └── services
 ````
