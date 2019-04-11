@@ -1,8 +1,11 @@
 # Craindo meu primeiro App
 - [Gerador de sombra](https://ethercreative.github.io/react-native-shadow-generator/)
+- [Gerar paleta de cor](https://coolors.co/00b9ae-037171-03312e-02c3bd-009f93)
 ## Instalar dependências
 ````
 npm insttal
+
+npm install --save [dependência]
 ````
 ## Dependências a ser instaladas
 
@@ -10,6 +13,7 @@ npm insttal
 - [React](https://www.npmjs.com/package/react)
 - [Axios](https://www.npmjs.com/package/react-native-axios)
 - [React Navigation](https://reactnavigation.org/docs/en/getting-started.html)
+- [React Native WebView](https://github.com/react-native-community/react-native-webview/blob/HEAD/docs/Getting-Started.md)
 
 ## Construir aplicação
 ````

@@ -13,9 +13,9 @@ const AppNavigator = createStackNavigator(
         /* The header config from HomeScreen is now here */
         defaultNavigationOptions: {
           headerStyle: {
-            backgroundColor: '#f4511e',
+            backgroundColor: '#03312E',
           },
-          headerTintColor: '#fff',
+          headerTintColor: '#FFF',
           headerTitleStyle: {
             fontWeight: 'bold',
           },

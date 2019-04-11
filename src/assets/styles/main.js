@@ -28,11 +28,11 @@ const styles = StyleSheet.create({
     productTitle:{
         fontSize: 18,
         fontWeight: 'normal',
-        color: '#545642'
+        color: '#037171'
     },
     productDescription:{
         fontSize: 16,
-        color: '#999',
+        color: '#00B9AE',
         marginTop: 5,
         lineHeight: 24
     },
@@ -40,7 +40,7 @@ const styles = StyleSheet.create({
         height: 42,
         borderRadius: 5,
         borderWidth: 2,
-        borderColor: "#DA552F",
+        borderColor: "#037171",
         backgroundColor: 'transparent',
         justifyContent: 'center',
         alignItems: 'center',
@@ -48,7 +48,7 @@ const styles = StyleSheet.create({
     },
     productButtonText:{
         fontSize: 16,
-        color: '#DA552F',
+        color: '#037171',
         fontWeight: 'bold'
     }
 });
