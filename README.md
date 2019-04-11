@@ -1,7 +1,9 @@
+
 # Craindo meu primeiro App
 
-![Main](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/01.png)
-![Product](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/02.png)
+| Main | Product |
+|---|---|
+| ![Main](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/01.png#left) | ![Product](https://raw.githubusercontent.com/uandersonmbc/my-first-app/master/src/assets/img/02.png#right) |
 
 
 - [Gerador de sombra](https://ethercreative.github.io/react-native-shadow-generator/)
