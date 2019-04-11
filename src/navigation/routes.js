@@ -1,10 +1,12 @@
 import { createStackNavigator, createAppContainer } from 'react-navigation';
 
 import Main from '../components/main';
+import Product from '../components/product';
 
 const AppNavigator = createStackNavigator(
     {
         Main: Main,
+        Product: Product,
     },
     {
         initialRouteName: 'Main',
