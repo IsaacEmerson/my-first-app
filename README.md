@@ -1,4 +1,5 @@
 # Craindo meu primeiro App
+- [Gerador de sombra](https://ethercreative.github.io/react-native-shadow-generator/)
 ## Instalar dependências
 ````
 npm insttal
