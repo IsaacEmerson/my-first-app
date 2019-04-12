@@ -47,6 +47,8 @@ adb shell input keyevent 82
 ├── ios/
 ├── src/
 │   ├── assets
+│   │   ├── img/
+│   │   └── styles/
 │   ├── components
 │   ├── config
 │   ├── navigation
