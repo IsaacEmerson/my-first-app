@@ -54,3 +54,18 @@ adb shell input keyevent 82
 │   ├── navigation
 │   └── services
 ````
+
+## Errors
+
+```
+User esse comando no terminal do linux para resolver esse erro: chmod 755 android/gradlew 
+
+Error: spawnSync ./gradlew EACCES
+    at Object.spawnSync (internal/child_process.js:998:20)
+    at spawnSync (child_process.js:622:24)
+    at Object.execFileSync (child_process.js:650:13)
+    at runOnAllDevices (/home/user/react/front-end/project/node_modules    /react-native/local-cli/runAndroid/runAndroid.js:299:19)
+    at buildAndRun (/home/user/react/front-end/project/node_modules/react-native/local-cli/runAndroid/runAndroid.js:135:12)
+    at isPackagerRunning.then.result (/home/user/react/front-end/project/node_modules/react-native/local-cli/runAndroid/runAndroid.js:65:12)
+    at processTicksAndRejections (internal/process/next_tick.js:81:5)
+```
