@@ -10,7 +10,7 @@
 - [Gerar paleta de cor](https://coolors.co/00b9ae-037171-03312e-02c3bd-009f93)
 ## Instalar dependências
 ````
-npm insttal
+npm install
 
 npm install --save [dependência]
 ````
